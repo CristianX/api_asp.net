@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cxtapia\\.nuget\\packages\\": {}
+    "C:\\Users\\cristianx\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cxtapia\\Documents\\Proyectos\\Proyectos_Net\\webapi\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\cristianx\\Documents\\Proyectos\\Proyectos DotNet\\api_asp.net\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\cxtapia\\Documents\\Proyectos\\Proyectos_Net\\webapi\\webapi.csproj",
-      "packagesPath": "C:\\Users\\cxtapia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cxtapia\\Documents\\Proyectos\\Proyectos_Net\\webapi\\obj\\",
+      "projectPath": "C:\\Users\\cristianx\\Documents\\Proyectos\\Proyectos DotNet\\api_asp.net\\webapi.csproj",
+      "packagesPath": "C:\\Users\\cristianx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cristianx\\Documents\\Proyectos\\Proyectos DotNet\\api_asp.net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cxtapia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cristianx\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

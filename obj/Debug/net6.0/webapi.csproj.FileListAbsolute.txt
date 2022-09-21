@@ -25,3 +25,30 @@ C:\Users\cxtapia\Documents\Proyectos\Proyectos_Net\webapi\obj\Debug\net6.0\refin
 C:\Users\cxtapia\Documents\Proyectos\Proyectos_Net\webapi\obj\Debug\net6.0\webapi.pdb
 C:\Users\cxtapia\Documents\Proyectos\Proyectos_Net\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
 C:\Users\cxtapia\Documents\Proyectos\Proyectos_Net\webapi\obj\Debug\net6.0\ref\webapi.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\appsettings.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\webapi.exe
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\webapi.deps.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\webapi.runtimeconfig.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\webapi.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\webapi.pdb
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.csproj.CopyComplete
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\refint\webapi.dll
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.pdb
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+C:\Users\cristianx\Documents\Proyectos\Proyectos DotNet\api_asp.net\obj\Debug\net6.0\ref\webapi.dll
